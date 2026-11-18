@@ -7,6 +7,8 @@ These sounds come from Kenney's [Interface Sounds](https://kenney.nl/assets/inte
 | `alert.ogg` | `Audio/bong_001.ogg` | Silence trimmed, mono |
 | `error.ogg` | `Audio/error_008.ogg` | Silence trimmed, mono |
 | `glass.ogg` | `Audio/glass_001.ogg` | Silence trimmed, mono |
+| `progress_complete.ogg` | `Audio/confirmation_001.ogg` | Silence trimmed, 20 ms fade-out, -3 dB, mono |
+| `progress_cancel.ogg` | `Audio/error_001.ogg` | Silence trimmed, 20 ms fade-out, -5 dB, mono |
 
 These sounds come from Kenney's [Impact Sounds](https://kenney.nl/assets/impact-sounds) pack (version 1.0), released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
